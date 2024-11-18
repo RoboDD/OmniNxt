@@ -1,6 +1,7 @@
 # Add Additional Payload
 
-
+- Protect outer frame to protect battery (align BRL rule)
+- D435i and T265 camera mount
 
 ---
 
